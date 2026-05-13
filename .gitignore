@@ -1,0 +1,11 @@
+
+#Environment_details
+#(ignores all)
+*.env 
+
+
+
+#Node-modules
+
+node_modules/
+
